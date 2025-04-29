@@ -1,0 +1,14 @@
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\bin\Debug\net8.0\16042025.exe
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\bin\Debug\net8.0\16042025.deps.json
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\bin\Debug\net8.0\16042025.runtimeconfig.json
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\bin\Debug\net8.0\16042025.dll
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\bin\Debug\net8.0\16042025.pdb
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\obj\Debug\net8.0\16042025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\obj\Debug\net8.0\16042025.AssemblyInfoInputs.cache
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\obj\Debug\net8.0\16042025.AssemblyInfo.cs
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\obj\Debug\net8.0\16042025.csproj.CoreCompileInputs.cache
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\obj\Debug\net8.0\16042025.dll
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\obj\Debug\net8.0\refint\16042025.dll
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\obj\Debug\net8.0\16042025.pdb
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\obj\Debug\net8.0\16042025.genruntimeconfig.cache
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\16042025\16042025\obj\Debug\net8.0\ref\16042025.dll

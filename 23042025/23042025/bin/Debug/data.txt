@@ -1,0 +1,3 @@
+Ivan,19,6
+Petur,18,5
+Kaloqn,19,3
