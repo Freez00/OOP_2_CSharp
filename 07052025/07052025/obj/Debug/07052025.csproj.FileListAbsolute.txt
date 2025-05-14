@@ -1,0 +1,7 @@
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\07052025\07052025\bin\Debug\07052025.exe.config
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\07052025\07052025\bin\Debug\07052025.exe
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\07052025\07052025\bin\Debug\07052025.pdb
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\07052025\07052025\obj\Debug\07052025.csproj.AssemblyReference.cache
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\07052025\07052025\obj\Debug\07052025.csproj.CoreCompileInputs.cache
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\07052025\07052025\obj\Debug\07052025.exe
+C:\Users\Freez_\Desktop\Software Engineering\PU\I kurs\OOP 2 - C#\07052025\07052025\obj\Debug\07052025.pdb
